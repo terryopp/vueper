@@ -16,8 +16,6 @@ export default {
     Index,
   },
 
-  data: () => ({
-    //
-  }),
+  data: () => ({})
 };
 </script>
